@@ -14,3 +14,4 @@ DDT-29 #comment Selecting e-mail @atlassian.com
 [DDT-29]  
 blah
 commit
+invalid email
