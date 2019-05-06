@@ -16,3 +16,4 @@ blah
 commit
 invalid email
 test
+test
