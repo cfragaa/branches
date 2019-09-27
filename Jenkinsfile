@@ -7,7 +7,7 @@ pipeline {
              }
              post {
                  always {
-                     jiraSendBuildInfo branch: 'MS-75-jenkins-branch', site: 'cfraga.atlassian.net'
+                     jiraSendBuildInfo site: 'cfraga.atlassian.net'
                  }
              }
          }
